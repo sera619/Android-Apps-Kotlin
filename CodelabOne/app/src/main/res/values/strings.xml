@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NiZer DiZer</string>
+    <string name="signature">Develop by S3R43o3</string>
+    <string name="mainText">Can you roll the lucky number?</string>
+
+    <string name="rollBtn">Roll Dice</string>
+    <string name="infobuttonDescription">Infobutton</string>
+</resources>
