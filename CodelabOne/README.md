@@ -1,2 +1,4 @@
-# Android-Apps-Kotlin
-Some of my practice Apps
+# NiZer DiZer #
+
+
+## This app is simple. Press the button to roll the dice and hope you get the lucky number. ## 
