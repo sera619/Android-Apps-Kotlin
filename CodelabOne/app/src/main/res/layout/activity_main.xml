@@ -70,27 +70,7 @@
         android:background="@color/headText"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent">
-
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:gravity="center"
-            android:orientation="horizontal">
-
-
-            <ImageButton
-                android:id="@+id/imageButton3"
-                android:layout_width="50dp"
-                android:layout_height="match_parent"
-                android:background="@color/teal_700"
-                android:contentDescription="@string/infobuttonDescription"
-                android:elevation="20sp"
-                app:srcCompat="@android:drawable/ic_menu_info_details" />
-        </LinearLayout>
-
-    </com.google.android.material.bottomnavigation.BottomNavigationView>
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <ImageView
         android:id="@+id/diceImage"
