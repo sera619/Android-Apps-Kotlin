@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.affirmationapp.adapter.ItemAdapter
 import com.example.affirmationapp.data.Datasource
 
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
