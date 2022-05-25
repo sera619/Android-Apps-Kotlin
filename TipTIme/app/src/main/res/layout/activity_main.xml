@@ -84,15 +84,15 @@
 
         <RadioButton
             android:id="@+id/option_18_percent"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/good_18"
             android:checked="true"
+            android:text="@string/good_18"
             android:textColor="@color/cyan" />
 
         <RadioButton
             android:id="@+id/option_15_percent"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/okay_15"
             android:textColor="@color/cyan" />
