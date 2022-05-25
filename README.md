@@ -5,7 +5,7 @@
 > All apps just for experimental usecases. No warenty of functionality!
 ## INDEX ##
 
-> This App u can find:
+> This App's u can find:
 > | App | Description |
 > |-----|-----|
 > |[NiZer DiZer](https://github.com/sera619/Android-Apps-Kotlin/tree/main/CodelabOne)| A simple app where u can roll a dice and with luck you get the lucky number.|
